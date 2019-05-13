@@ -1,4 +1,4 @@
-package com.javalinswagger
+package com.javalin.swagger
 
 import io.javalin.Context
 import io.javalin.Handler

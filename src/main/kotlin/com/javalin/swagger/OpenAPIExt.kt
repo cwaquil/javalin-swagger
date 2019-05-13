@@ -1,4 +1,4 @@
-package com.javalinswagger
+package com.javalin.swagger
 
 import com.fasterxml.jackson.annotation.JsonInclude
 import com.fasterxml.jackson.databind.ObjectMapper
